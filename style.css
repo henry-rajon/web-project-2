@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Bakbak+One&family=Open+Sans:wght@400;500;600;700&family=Poppins&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    line-height: 22px;
+    color: #333;
+}
+/* Banner CSS Code */
+.banner-area{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 30px 80px;
+    margin-bottom: 50px;
+}
+.banner-content{
+    width: 50%;
+}
+.banner-content span{
+    color: orange;
+}
+.banner-content h1 {
+    font-size: 45px;
+    line-height: 45px;
+    color: #333;
+    padding-top: 150px;
+    margin-bottom: 30px;
+}
+.banner-content p {
+    font-size: 16px;
+    margin-bottom: 30px;
+}
+.btn {
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px;
+    background-color: #ff7700;
+    padding: 10px 20px;
+    border-radius: 50px;
+}
+.banner-imgs{
+    width: 50%;
+}
+.banner-imgs img{
+    width: 100%;
+}
