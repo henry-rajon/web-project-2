@@ -140,3 +140,22 @@ img{
 .single-counter h4 {
     font-weight: 400;
 }
+
+/* Footer CSS Code */
+footer{
+    background-color: #0B0D17;
+    color: #fff;
+    text-align: center;
+    padding: 25px 0;
+}
+footer span{
+    color: orange;
+}
+footer h1{
+    margin-bottom: 15px;
+    color: #c8c8c8;
+}
+footer p{
+    color: #fff;
+    font-size: 14px;
+}
