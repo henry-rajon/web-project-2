@@ -120,3 +120,23 @@ img{
 .single-blog p {
     padding: 0 20px;
 }
+
+/* Counter CSS Code */
+.counter-area{
+    display: flex;
+    justify-content: space-evenly;
+    box-shadow: 1px 2px 18px 5px #c8c8c8;
+    border-radius: 20px;
+    padding: 30px 0;
+    width: 80%;
+    margin: 0 auto;
+    margin-bottom: 50px;
+}
+.single-counter{}
+.single-counter span {
+    font-size: 30px;
+    font-weight: 800;
+}
+.single-counter h4 {
+    font-weight: 400;
+}
